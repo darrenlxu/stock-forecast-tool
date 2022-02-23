@@ -2,6 +2,8 @@
 
 > built with Python
 
+if visualisations don't load, see: 
+
 pt 1 
 
 - [uploaded]
