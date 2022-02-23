@@ -10,6 +10,6 @@ pt 1
 
 pt 2
 
-- [to be uploaded]
-- forecast of stock price and volume to be added, currently in development
+- [in development]
+- forecast of stock price and volume to be added
 - this process will also be automated
