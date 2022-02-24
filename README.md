@@ -2,7 +2,7 @@
 
 > built with Python
 
-if visualisations don't load, see: [stock-visualisation-tool](https://nbviewer.org/github/darrenlxu/stock-forecast-tool/blob/main/proj.ipynb)
+Plotly visualisations don't load on GitHub, see: [stock-visualisation-tool](https://nbviewer.org/github/darrenlxu/stock-forecast-tool/blob/main/proj.ipynb)
 
 pt 1 
 
