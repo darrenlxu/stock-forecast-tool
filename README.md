@@ -4,7 +4,7 @@
 
 Plotly visualisations don't load on GitHub, see: [stock-visualisation-tool](https://nbviewer.org/github/darrenlxu/stock-forecast-tool/blob/main/proj.ipynb)
 
-- the non-interactive version is 
+- the non-interactive version is <i>noninteractiveproj.ipynb</i> 
 
 pt 1 
 
