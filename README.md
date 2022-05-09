@@ -15,4 +15,3 @@ pt 2
 
 - [uploaded/in development]
 - forecast of stock price
-- 
