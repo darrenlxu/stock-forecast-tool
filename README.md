@@ -13,6 +13,6 @@ pt 1
 
 pt 2
 
-- [in development]
-- forecast of stock price and volume to be added
-- this process will also be automated
+- [uploaded/in development]
+- forecast of stock price
+- 
