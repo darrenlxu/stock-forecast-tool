@@ -1,15 +1,14 @@
-# stock-forecast-tool
+# stock-visualisation-forecast-tool
 
 > built with Python
 
 Plotly's interactive visualisations don't load on GitHub, see: [stock-visualisation-tool](https://nbviewer.org/github/darrenlxu/stock-forecast-tool/blob/main/proj.ipynb)
 
 
-pt 1 
+vis.ipynb
 
-- [uploaded]
-- automated visualisation of stock price and stock volume (5 year range)
-- user can input the number of ticker symbols and the ticker symbols after 
+- automated visualisation of stock price (open & close) and stock volume (5 year range)
+- user can input the number of stocks and the respective ticker symbols after 
 
 pt 2
 
